@@ -1,0 +1,2 @@
+file,group_id,peak_in_group,n_peaks_in_group,theoretical_energy_keV,theoretical_energy_keV_err,clicked_center_ADC,center_ADC,center_ADC_err,sigma_ADC,sigma_ADC_err,amplitude_counts_per_s,amplitude_counts_per_s_err,gaussian_area_counts,fit_xmin,fit_xmax,background_slope,background_intercept
+data/thickness_effects_behind/Al thickness/Al_16cmpmt_1.3cmthick.csv,1,1,1,661.657,0.003,495.0,497.43183523136867,0.15602766046567268,16.396757115854502,0.17969751896954456,134.72586080088408,1.12395010324533,5537.310346132432,429.0,572.0,-0.01330042466131215,8.872478913867349

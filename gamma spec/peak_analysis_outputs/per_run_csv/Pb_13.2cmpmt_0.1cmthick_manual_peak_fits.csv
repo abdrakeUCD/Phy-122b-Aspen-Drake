@@ -1,0 +1,2 @@
+file,group_id,peak_in_group,n_peaks_in_group,theoretical_energy_keV,theoretical_energy_keV_err,clicked_center_ADC,center_ADC,center_ADC_err,sigma_ADC,sigma_ADC_err,amplitude_counts_per_s,amplitude_counts_per_s_err,gaussian_area_counts,fit_xmin,fit_xmax,background_slope,background_intercept
+data/thickness_effects_behind/Pb thickness/Pb_13.2cmpmt_0.1cmthick.csv,1,1,1,661.657,0.003,496.0,498.5770744216045,0.16276638676320299,16.352364799997254,0.18712451474121483,132.84770558006431,1.158965142773106,5445.334453650556,429.0,572.0,-0.013628564166424642,8.978403223400298
